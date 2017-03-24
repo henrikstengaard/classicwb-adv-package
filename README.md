@@ -4,6 +4,8 @@
 
 ClassicWB ADV Package contains ClassicWB ADV v28 created by Bloodwych from EAB.
 
+ClassicWB ADV is a feature rich Workbench enhancement by Bloodwych targeted A1200 with 4MB memory expansion using 16 colour screenmode using Multisync / Interlaced 640x512 display.
+
 With permission from Bloodwych it's been converted to a package for HstWB Installer.
 
 Original version of ClassicWB ADV can be downloaded from http://classicwb.abime.net/.
