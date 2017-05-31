@@ -33,6 +33,10 @@ copy >NIL: PACKAGEDIR:screenshots/#?.iff SYSTEMDIR:Locale/Help/ClassicWB-ADV/scr
 echo "Installing ClassicWB ADV..." 
 unzip -qq -o -x PACKAGEDIR:classicwb_adv_v28.zip -d SYSTEMDIR:
 
+; Copy scsi device
+IF EXISTS DEVS:scsi.device
+  COPY >NIL: DEVS:scsi.device SYSTEMDIR:Devs
+ENDIF
 
 ; Install ClassicWB from S/Startup-Sequence
 ; FULL ADV ADVSP P96 
