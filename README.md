@@ -6,7 +6,7 @@ ClassicWB ADV is a feature rich Workbench enhancement by Bloodwych targeted A120
 
 ClassicWB ADV Package contains ClassicWB ADV v28 created by Bloodwych from EAB.
 
-With permission from Bloodwych it's been converted to a package for HstWB Installer.
+With permission from Bloodwych it has been converted to a package for HstWB Installer.
 
 Original version of ClassicWB ADV can be downloaded from http://classicwb.abime.net/.
 
