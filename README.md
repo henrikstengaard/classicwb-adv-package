@@ -12,7 +12,7 @@ Original version of ClassicWB ADV can be downloaded from http://classicwb.abime.
 
 ## Requirements
 
-ClassicWB ADV package can be installed on any Amiga with Workbench 3.1 and about 108MB free space on a harddrive for installation.
+ClassicWB ADV package can be installed on any Amiga with Amiga OS 3.1 or 3.1.4 and about 108MB free space on a harddrive for installation.
 
 ## Installation
 
@@ -41,10 +41,20 @@ The install script for HstWB Installer is based on S/Startup-Sequence from Class
 - Removed all "press enter to continue" expect last one used after installation complete message is shown.
 - Removed and reduced waits.
 - Adjusted text spacing.
+- Added support for Amiga OS 3.1.4:
+  - Reinstalled MUI to fix Scalos prefs and iGame.
+  - Patched Scalos title to 3.1.4 for no theme, Oldicons, Retro and ReGen themes.
+  - Disabled PatchRAM TagLiFE BlazeWCP FBlit and IconBeFast optimizations.
+  - Added LoadModule ROMUPDATE to support Kickstart 3.1 being patched to 3.1.4.
+  - Added version checking of DEVS:scsi.device, so it only will be loaded if scsi.device in memory/resident is less than v43.45.
 
 ## Screenshots
 
 Screenshots of ClassicWB ADV from http://classicwb.abime.net/classicweb/advpics.htm.
+
+![ClassicWB ADV 3.1.4 1](screenshots/classicwb_adv_3.1.4_1.png?raw=true)
+
+![ClassicWB ADV 3.1.4 2](screenshots/classicwb_adv_3.1.4_2.png?raw=true)
 
 ![ClassicWB ADV 1](screenshots/classicwb_adv1.png?raw=true)
 
