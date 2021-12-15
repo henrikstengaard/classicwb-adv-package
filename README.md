@@ -41,6 +41,11 @@ The install script for HstWB Installer is based on S/Startup-Sequence from Class
 - Removed all "press enter to continue" expect last one used after installation complete message is shown.
 - Removed and reduced waits.
 - Adjusted text spacing.
+- Creates backup of startup sequence as "S:Startup-Sequence.BAK".
+- Creates backup of user startup as "S:User-Startup.BAK". 
+- Creates backup of original ClassicWB ADV startup sequence as "S:Startup-Sequence.CWB".
+- Creates backup of original ClassicWB ADV user startup as "S:User-Startup.CWB". 
+- Patch startup sequence and user startup with ClassicWB ADV changes for best Amiga OS compatibility with existing and future versions.
 - Added support for Amiga OS 3.1.4:
   - Reinstalled MUI to fix Scalos prefs and iGame.
   - Patched Scalos title to 3.1.4 for no theme, Oldicons, Retro and ReGen themes.
