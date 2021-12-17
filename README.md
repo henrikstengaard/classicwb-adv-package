@@ -56,15 +56,19 @@ The install script for HstWB Installer is based on S/Startup-Sequence from Class
 
 ## Screenshots
 
-Screenshots of ClassicWB ADV from http://classicwb.abime.net/classicweb/advpics.htm.
+Screenshots of ClassicWB ADV installed with Amiga OS 3.2.
 
 ![ClassicWB ADV 3.2 1](screenshots/classicwb_adv_3.2_1.png?raw=true)
 
 ![ClassicWB ADV 3.2 2](screenshots/classicwb_adv_3.2_2.png?raw=true)
 
+Screenshots of ClassicWB ADV installed with Amiga OS 3.1.4.
+
 ![ClassicWB ADV 3.1.4 1](screenshots/classicwb_adv_3.1.4_1.png?raw=true)
 
 ![ClassicWB ADV 3.1.4 2](screenshots/classicwb_adv_3.1.4_2.png?raw=true)
+
+Screenshots of ClassicWB ADV from http://classicwb.abime.net/classicweb/advpics.htm.
 
 ![ClassicWB ADV 1](screenshots/classicwb_adv1.png?raw=true)
 
